@@ -1,0 +1,8 @@
+{
+  "name": "Pickle Rick",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fc619b3a"
+}

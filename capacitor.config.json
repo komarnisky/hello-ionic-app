@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Pickle Rick",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
